@@ -17,8 +17,8 @@ keywords:
   - visiter
   - quick
 description: "Quick sketch on the restaurant table before dinner. Website www.justoneartist.com Music from \"Disappear 'til Tomorrow \" Track \"Visiter \" on http://soundcloud.com/disappear-til-tomorrow/visiter"
-datePublished: '2015-10-22T16:48:07.479Z'
-dateModified: '2015-10-22T16:47:57.479Z'
+datePublished: '2015-10-22T17:02:54.072Z'
+dateModified: '2015-10-22T17:02:49.326Z'
 author:
   - name: justoneartist
     url: 'http://vimeo.com/justoneartist'
@@ -40,14 +40,14 @@ app_links:
     app_store_id: '425194759'
     app_name: Vimeo
 title: Restaurant Table Sketch
+sourcePath: _posts/2015-10-22-restaurant-table-sketch.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2015-10-22-restaurant-table-sketch.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
