@@ -1,6 +1,6 @@
 name: SketchCloud
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.6331253482494503
 cta:
   domain: null
@@ -15,7 +15,8 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#000000'
   brandStrength: 1
   lightness: 0.3341356609016657
   saturation: 0.550768302520737
