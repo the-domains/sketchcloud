@@ -1,11 +1,15 @@
 analytics: {}
 color:
   brandColors:
+    - '#C0C0C0'
     - '#000000'
-  brandStrength: 1
-  lightness: 0.3341356609016657
-  rhythmicContrast: 0.6704625727143139
-  saturation: 0.550768302520737
+    - '#808080'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.519425
+  lightness: 0.519425
+  rhythmicContrast: 0.510979
+  saturation: 0.525337
 cta: {}
 layout_spectrum: 0.200168
 name: SketchCloud
