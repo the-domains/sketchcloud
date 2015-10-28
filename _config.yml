@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#C0C0C0'
-    - '#000000'
-    - '#808080'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0.519425
-  lightness: 0.519425
-  rhythmicContrast: 0.510979
-  saturation: 0.525337
+    - '#98B8C8'
+    - '#104858'
+    - '#688090'
+    - '#E8C838'
+    - '#E8E048'
+  brandStrength: 0.662162
+  lightness: 0.38429
+  rhythmicContrast: 0.65625
+  saturation: 0.663006
 cta: {}
-layout_spectrum: 0.200168
+layout_spectrum: 0.705236
 name: SketchCloud
 opengraph: {}
 purpose: []
