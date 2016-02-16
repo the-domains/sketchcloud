@@ -1,19 +1,4 @@
-name: SketchCloud
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.60304
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#98B8C8'
@@ -21,8 +6,13 @@ color:
     - '#688090'
     - '#E8C838'
     - '#E8E048'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
+  brandStrength: 0.650337
+  lightness: 0.501689
+  rhythmicContrast: 0.494932
+  saturation: 0.522804
+cta: {}
+layout_spectrum: 0.590371
+name: SketchCloud
+opengraph: {}
 purpose: []
+typography_spectrum: 0.60304
